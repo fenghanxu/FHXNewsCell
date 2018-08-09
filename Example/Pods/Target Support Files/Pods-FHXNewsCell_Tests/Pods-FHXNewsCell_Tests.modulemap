@@ -1,0 +1,6 @@
+framework module Pods_FHXNewsCell_Tests {
+  umbrella header "Pods-FHXNewsCell_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

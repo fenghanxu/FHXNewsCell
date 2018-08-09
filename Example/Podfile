@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXNewsCell_Example' do
+  pod 'FHXNewsCell', :path => '../'
+
+  target 'FHXNewsCell_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
